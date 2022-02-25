@@ -1,0 +1,5 @@
+# In _config.yml
+title: N-queens using QAOA
+author: Sagnik Bhattacharya
+execute:
+  execute_notebooks: 'off'
